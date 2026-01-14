@@ -15,7 +15,7 @@ Backend CRUD operations with MongoDB
 Frontend
 
 React,
-Vite,
+Vite
 
 Backend
 
@@ -26,16 +26,6 @@ MongoDB
 Tools
 Thunder Client (API Testing)
 
-📂 Project Structure
-
-Task-Management-App/
-│
-├── client/          # React frontend (Vite)
-│
-├── server/          # Node & Express backend
-│
-├── package.json
-└── README.md
 
 ⚙️ Installation & Setup
 
