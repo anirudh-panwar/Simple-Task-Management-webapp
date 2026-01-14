@@ -2,22 +2,22 @@ Task Management Web Application
 A simple and efficient Task Management Web Application built using the MERN stack. This project allows users to manage tasks by creating, editing, updating, and tracking their status as Pending or Completed. It demonstrates core full-stack development concepts with clean code and RESTful architecture.
 
 🚀 Features
-Create new tasks
-Edit existing tasks
-Delete tasks
-Mark tasks as Pending or Completed
-Responsive and user-friendly UI
-\RESTful API integration
+Create new tasks,
+Edit existing tasks,
+Delete tasks,
+Mark tasks as Pending or Completed,
+Responsive and user-friendly UI,
+\RESTful API integration,
 Backend CRUD operations with MongoDB
 
 🛠 Tech Stack
 Frontend
-React
-Vite
+React,
+Vite,
 
 Backend
-Node.js
-Express.js
+Node.js,
+Express.js,
 MongoDB
 
 Tools
