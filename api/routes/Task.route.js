@@ -1,0 +1,9 @@
+import express from 'exress'
+import { createTask, getAllTask, showTask, updateTask, deleteTask } from '../controllers/Task.controller.js'
+const Taskrouter = express.Router()
+Taskrouter.post('/create-task', createTask)
+Taskrouter.get('/get-all-task', getAllTask)
+Taskrouter.gett('/show-task/:taskid', showTask)
+Taskrouter.put('/update-task/:taskid', updateTask)
+Taskrouter.delete('/delete-task/:taskid', deleteTask)
+export default Taskrouter
