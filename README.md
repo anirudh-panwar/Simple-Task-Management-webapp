@@ -48,24 +48,28 @@ npm install
 npm run dev
 
 🔗 API Testing
+
 All backend APIs were tested using Thunder Client to ensure:
-Proper request handling
-Data validation
+Proper request handling,
+Data validation,
 Smooth client-server communication
 
 📌 Learning Outcomes
-Understanding MERN stack workflow
-REST API development
-MongoDB CRUD operations
-React component-based architecture
+
+Understanding MERN stack workflow,
+REST API development,
+MongoDB CRUD operations,
+React component-based architecture,
 Frontend–backend integration
 
 📈 Future Improvements
-User authentication
-Task categories and priorities
-Due dates and reminders
+
+User authentication,
+Task categories and priorities,
+Due dates and reminders,
 Improved UI/UX
 
 👨‍💻 Author
+
 Anirudh Panwar
 MCA Student | Full-Stack Web Development Learner
